@@ -1,0 +1,11 @@
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\ComicCollectorSystem.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\exceptions\comicexceptions\ComicNoEncontradoException.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\exceptions\comicexceptions\ComicYaCompradoException.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\exceptions\comicexceptions\ComicYaEliminadoException.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\exceptions\comicexceptions\ComicYaReservadoException.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\manager\ComicSystemManager.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\models\comic\Comic.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\models\usuario\tipos\Administrador.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\models\usuario\tipos\Cliente.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\models\usuario\Usuario.java
+C:\Users\ambar\OneDrive\Documentos\NetBeansProjects\ComicCollectorSystem\src\main\java\com\mycompany\comiccollectorsystem\utils\menu\Menu.java

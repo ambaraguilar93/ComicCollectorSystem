@@ -1,0 +1,7 @@
+com.mycompany.comiccollectorsystem
+com.mycompany.comiccollectorsystem.exceptions.comicexceptions
+com.mycompany.comiccollectorsystem.manager
+com.mycompany.comiccollectorsystem.models.comic
+com.mycompany.comiccollectorsystem.models.usuario
+com.mycompany.comiccollectorsystem.models.usuario.tipos
+com.mycompany.comiccollectorsystem.utils.menu

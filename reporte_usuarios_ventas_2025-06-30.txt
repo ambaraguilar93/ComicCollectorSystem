@@ -1,0 +1,10 @@
+===== Reporte de Usuarios =====
+14.855.345-6 - Ana - Carmona - Cliente
+17.876.453-1 - Antonio - Perez - Administrador
+18.626.170-4 - Ambar - Aguilar - Administrador
+Total de usuarios registrados: 3
+
+===== Reporte de Ventas =====
+No hay ventas registradas.
+
+Fecha de generación del reporte: 2025-06-30

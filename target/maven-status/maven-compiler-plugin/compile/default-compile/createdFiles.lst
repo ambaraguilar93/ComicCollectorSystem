@@ -1,0 +1,4 @@
+com\mycompany\comiccollectorsystem\ComicCollectorSystem.class
+com\mycompany\comiccollectorsystem\exceptions\comicexceptions\ComicYaEliminadoException.class
+com\mycompany\comiccollectorsystem\exceptions\comicexceptions\ComicYaReservadoException.class
+com\mycompany\comiccollectorsystem\exceptions\comicexceptions\ComicYaCompradoException.class
